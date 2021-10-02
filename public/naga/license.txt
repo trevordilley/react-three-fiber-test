@@ -1,0 +1,11 @@
+Model Information:
+* title:	NAGA
+* source:	https://sketchfab.com/3d-models/naga-7ab26d5cc7ff4f398908001136aac455
+* author:	Rzyas (https://sketchfab.com/rzyas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NAGA" (https://sketchfab.com/3d-models/naga-7ab26d5cc7ff4f398908001136aac455) by Rzyas (https://sketchfab.com/rzyas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
