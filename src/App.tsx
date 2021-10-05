@@ -1,8 +1,7 @@
-import React, {Suspense, useEffect, useRef, useState} from 'react';
+import React, {Suspense, useState} from 'react';
 import './App.css';
-import {Canvas, PerspectiveCameraProps, useFrame, useThree} from "@react-three/fiber";
-import {useFBX, useGLTF} from "@react-three/drei";
-import Naga from "./gen/Naga";
+import {Canvas, useFrame} from "@react-three/fiber";
+import CesiumMan from "./gen/CesiumMan";
 
 
 const RotatingRot = () => {
@@ -12,7 +11,7 @@ const RotatingRot = () => {
   useFrame(() => setXRot(xRot + 0.01))
 
   return (
-      <Naga position={[0,-120,-300]} rotation={[0,xRot, 0]}/>
+      <CesiumMan position={[0,-1,2.5]} rotation={[0,xRot, 0]}/>
   )
 }
 
